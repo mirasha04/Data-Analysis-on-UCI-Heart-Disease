@@ -1,0 +1,1 @@
+This analysis is done to find the factors affecting heart disease and based on that creating a model to predict the presence of heart disease. This analysis has a global impact as the findings and models developed can be adapted to support early screening efforts in healthcare systems around the world.
